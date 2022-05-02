@@ -1,21 +1,23 @@
-<h4 align="right">
+<h4 align="leaft">
 
-<img width="50%" src="https://github.com/Blackburn060/Blackburn060/blob/main/img/WatchDogsGif1.gif">
+<img width="40%" src="https://github.com/Blackburn060/Blackburn060/blob/main/img/FotoDePerfil.png">
+  
+  </h4>
   
 <hr>
 
-<h4 align="leaft">
+<h4 align="right">
   
 ### Contatos:
 
-<div>
-<a href="https://instagram.com/kayky.jpg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/blackburn060" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = mailto:contato@sr.kayky.martins@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/kayky-martins-pereira-8297ab206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&target=blank&link=https://github.com/Blackburn060)](https://www.instagram.com/kayky.jpg/)
+  [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://github.com/Blackburn060)](https://contate.me/kaykyMP)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://github.com/Blackburn060)](https://www.linkedin.com/in/kayky-martins-pereira-8297ab206/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/Blackburn060)](mailto:sr.kayky.martins@gmail.com)
   
-<hr>
+  </h4>
+  
+  <hr>
 
 <div>
 <a href="https://github.com/Blackburn060">
