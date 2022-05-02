@@ -1,9 +1,11 @@
-<h4 align="center">
+<h4 align="right">
 
 <img width="50%" src="https://github.com/Blackburn060/Blackburn060/blob/main/img/WatchDogsGif1.gif">
   
 <hr>
 
+<h4 align="leaft">
+  
 ### Contatos:
 
 <div>
@@ -12,6 +14,8 @@
 <a href = mailto:contato@sr.kayky.martins@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kayky-martins-pereira-8297ab206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+  
+<hr>
 
 <div>
 <a href="https://github.com/Blackburn060">
