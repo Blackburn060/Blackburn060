@@ -30,4 +30,10 @@
 <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Blackburn060&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackburn060/blackburn060/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackburn060/blackburn060/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/blackburn060/blackburn060/output/github-contribution-grid-snake.svg">
+</picture>
+
 ![Snake animation](https://github.com/Blackburn060/Blackburn060/blob/output/github-contribution-grid-snake.svg)
