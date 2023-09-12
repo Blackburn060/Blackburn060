@@ -21,7 +21,7 @@
 
 ## Meus dados do GitHub
 
-<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackburn060&layout=compact&langs_count=7&theme=dark"/>
+<img height="130px" src="https://github-readme-stats.vercel.app/api?username=Blackburn060&layout=compact&langs_count=7&theme=dark"/>
 
   <hr>
 
