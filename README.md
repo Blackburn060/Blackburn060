@@ -19,16 +19,20 @@
   
 <hr>
 
-## Meus dados do GitHub
-
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Blackburn060&layout=compact&langs_count=7&theme=algolia"/>
+<div align="center">
+  <h1>My Github data</h1>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Blackburn060&layout=compact&langs_count=7&theme=algolia"/>
+</div>
 
   <hr>
 
-<div>
-<a href="https://github.com/Blackburn060">
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Blackburn060&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <h1>Most used languages</h1>
+  <a href="https://github.com/Blackburn060">
+  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Blackburn060&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>
+
+  <hr>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackburn060/blackburn060/output/github-contribution-grid-snake-dark.svg">
