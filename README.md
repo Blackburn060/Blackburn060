@@ -39,5 +39,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackburn060/blackburn060/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/blackburn060/blackburn060/output/github-contribution-grid-snake.svg">
 </picture>
-
-![Snake animation](https://github.com/Blackburn060/Blackburn060/blob/output/github-contribution-grid-snake.svg)
