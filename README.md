@@ -6,7 +6,7 @@
   
 <hr>
   
-<h1 align="center">Contatos</h1>
+<h1 align="center">Contacts</h1>
 
 <h4 align="center">
 
