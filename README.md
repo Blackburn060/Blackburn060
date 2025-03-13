@@ -1,11 +1,3 @@
-<h4 align="Center">
-
-<img width="40%" src="https://github.com/Blackburn060/Blackburn060/blob/main/img/FotoDePerfil.png">
-  
-  </h4>
-  
-<hr>
-  
 <h1 align="center">Contacts</h1>
 
 <h4 align="center">
@@ -14,7 +6,7 @@
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://github.com/Blackburn060)](https://contate.me/kaykyMP)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://github.com/Blackburn060)](https://www.linkedin.com/in/kayky-martins-pereira-8297ab206/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/Blackburn060)](mailto:sr.kayky.martins@gmail.com)
-  
+
   </h4>
   
 <hr>
