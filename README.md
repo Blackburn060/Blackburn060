@@ -110,20 +110,14 @@ Sistema multimodal inteligente
 ## 🐍 Contributions
 
 <p align="center">
-
   <picture>
     <source media="(prefers-color-scheme: dark)" 
       srcset="https://raw.githubusercontent.com/blackburn060/blackburn060/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/blackburn060/blackburn060/output/github-snake.svg">
     <img 
       src="https://raw.githubusercontent.com/blackburn060/blackburn060/output/github-snake.svg">
   </picture>
-
-  <br/><br/>
-
-  <img 
-    src="https://raw.githubusercontent.com/blackburn060/blackburn060/output/github-snake.gif" 
-    width="100%"/>
-
 </p>
 
 ---

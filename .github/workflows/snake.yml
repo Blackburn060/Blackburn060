@@ -16,14 +16,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake animation (premium)
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake.gif?color_snake=#00F7FF&color_dots=#1e293b,#0ea5e9,#38bdf8,#7dd3fc,#bae6fd
+            dist/github-snake.svg?color_snake=#22c55e&color_dots=#1e293b,#16a34a,#22c55e,#4ade80,#86efac
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#22c55e
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
