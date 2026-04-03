@@ -1,4 +1,4 @@
-<h1 align="center">Kayky M. Pereira</h1>
+<h1 align="center">Kayky Martins</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Specialist;AI+%26+Automation;Building+Scalable+Systems" />
@@ -39,11 +39,14 @@
 
 ## 💼 Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
+<td width="45%">
 
-### 🤖 AI Multi-Agent Platform
+<h3>🤖 AI Multi-Agent Platform</h3>
+
 Sistema com múltiplos agentes inteligentes  
 
 ✔️ LangChain / LangGraph  
@@ -52,9 +55,10 @@ Sistema com múltiplos agentes inteligentes
 
 </td>
 
-<td width="50%">
+<td width="45%">
 
-### ⚙️ Backend API .NET
+<h3>⚙️ Backend API .NET</h3>
+
 API escalável com arquitetura limpa  
 
 ✔️ JWT Auth  
@@ -65,33 +69,35 @@ API escalável com arquitetura limpa
 </tr>
 
 <tr>
-<td width="50%">
+<td width="45%">
 
-### 🔄 Automação com n8n
+<h3>🔄 Automação com n8n</h3>
+
 Integração entre múltiplos sistemas  
 
 ✔️ Workflows automatizados  
 ✔️ Integração com APIs  
-✔️ Processamento de dados  
 
 </td>
 
-<td width="50%">
+<td width="45%">
 
-### 🚀 Plataforma de IA
+<h3>🚀 Plataforma de IA</h3>
+
 Sistema multimodal inteligente  
 
 ✔️ LLMs  
-✔️ Orquestrador inteligente  
 ✔️ Arquitetura modular  
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Blackburn060&theme=tokyonight"/>
@@ -113,10 +119,7 @@ Sistema multimodal inteligente
   <picture>
     <source media="(prefers-color-scheme: dark)" 
       srcset="https://raw.githubusercontent.com/blackburn060/blackburn060/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/blackburn060/blackburn060/output/github-snake.svg">
-    <img 
-      src="https://raw.githubusercontent.com/blackburn060/blackburn060/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/blackburn060/blackburn060/output/github-snake.svg">
   </picture>
 </p>
 
